@@ -1,2 +1,3 @@
-# Hello-GitHub-Repository
+# CodeAlpha_projectName
+
 My first  repository on GitHub!
